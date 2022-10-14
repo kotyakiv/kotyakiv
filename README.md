@@ -1,10 +1,3 @@
-👋 Hi, I’m Yakiv Kot, Hive Helsinki student and father
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kotyakiv/kotyakiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Yakiv Kot, Hive Helsinki student and father. 
+Looking for a Trainee or Junior position in IT company. I am interested in automatation, RPA, embedded systems. I would like to learn soon more about machine learning.
+I have some experience in Front-end, but totaly not interested in Web development, don't even offer :) And of course no Javascript!
